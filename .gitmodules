@@ -1,0 +1,3 @@
+[submodule "NUXCore/thirdparty/spdlog"]
+	path = NUXCore/thirdparty/spdlog
+	url = https://github.com/gabime/spdlog
